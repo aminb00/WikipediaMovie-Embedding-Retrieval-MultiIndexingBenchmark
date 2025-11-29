@@ -1,7 +1,3 @@
-Here is a **clean, professional, and improved English version** of your project README.
-I preserved all technical details but improved clarity, structure, and academic tone.
-
----
 
 # Information Retrieval – High-Dimensional Similarity Search
 
