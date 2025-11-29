@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **Information Retrieval – Assignment 2**  
-University of Antwerp | Academic Year 2024/2025
+University of Antwerp | Academic Year 2025/2026
 
 ---
 
