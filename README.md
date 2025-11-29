@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **Information Retrieval – Assignment 2**  
-University of Antwerp | Academic Year 2024/2025
+University of Antwerp | Academic Year 2025/2026
 
 ---
 
@@ -25,17 +25,6 @@ This project implements and benchmarks **Approximate Nearest Neighbor (ANN)** in
 | LSH | 100% | 11.33 ms |
 | PQ | 33.0% | 1.74 ms |
 | FAISS-IVF | 98.8% | 83.5 μs |
-
----
-
-## 👥 Team
-
-| Name | Student ID |
-|------|------------|
-| Alperen Davran | s0250946 |
-| Matteo Carlo Comi | s0259766 |
-| Shakhzodbek Bakhtiyorov | s0242661 |
-| Amin Borqal | s0259707 |
 
 ---
 
