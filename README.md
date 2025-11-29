@@ -28,17 +28,6 @@ This project implements and benchmarks **Approximate Nearest Neighbor (ANN)** in
 
 ---
 
-## 👥 Team
-
-| Name | Student ID |
-|------|------------|
-| Alperen Davran | s0250946 |
-| Matteo Carlo Comi | s0259766 |
-| Shakhzodbek Bakhtiyorov | s0242661 |
-| Amin Borqal | s0259707 |
-
----
-
 ## 📁 Repository Structure
 
 ```
